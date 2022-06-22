@@ -1,0 +1,19 @@
+.exclusive-group {
+    background-color: #47555C;
+}
+.exclusive-group {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.exclusive-group p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-size:16px;
+    font-family: 'Montserrat', sans-serif;
+}
+.exclusive-group a:hover {
+    background-color: #3a3a3a;
+    padding:5px;
+} 

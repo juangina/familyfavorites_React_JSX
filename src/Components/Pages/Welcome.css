@@ -1,0 +1,29 @@
+#morecustomers {
+	background-color: #F7F5F7;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+#morecustomers h3 {
+	color: #454867;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold !important;
+	padding-bottom: 30px;
+}
+
+#morecustomers h2 {
+	color: #454867;
+	font-size: 22px;
+	letter-spacing: 1px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold !important;
+}
+
+#morecustomers p {
+	color: #454867;
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 50px;
+}
